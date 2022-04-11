@@ -13,3 +13,5 @@ Depois de alterado eu tive outra ideia genial... Achei alguns videos no tik tok 
  E Aqui está o algotimo de I.A:
  
  https://github.com/1adrianb/face-alignment
+
+O arquivo index é automatizador.py
