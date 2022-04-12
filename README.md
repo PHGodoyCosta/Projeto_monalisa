@@ -5,7 +5,11 @@ Sim, eu também fiquei muito curioso, e decidi testar... O Algoritimo funciona m
 
 Depois de alterado eu tive outra ideia genial... Achei alguns videos no tik tok (Que eram danças como movimentos de rostos) e tentei aplicar esses videos e uma imagem da monalisa. E ficou simplesmente incrivel. Foi ai que surgiu outra ideia... Porque não tranformar uma estrela tik toker? Fiz um algoritimo que pegava videos escolhidos por mim do tik tok, baixava, criava o vídeo com a monalisa, aplicava e o audio e acelerava (Porque o retorno do algoritimo é um vídeo lento), e ainda postava na minha conta.
 
- Isso sim que eu chamo de comodidade kkkkk, Aqui está o Tik Tok que criei, atualmente está parado, mas tem alguns vídeos publicados.
+Uma coisa muito legal que eu achei nesse projeto, é uma biblioteca chamada moviepy, ela possibilita a edição de videos com python. (e eu achei isso simplismente incrível! ) Aqui está o pypi dela, caso você se interesse:
+
+https://pypi.org/project/moviepy/
+
+ E aqui está o Tik Tok que criei, atualmente está parado, mas tem alguns vídeos publicados.
  Tik Tok: @_trends_monalisa_
  
  https://www.tiktok.com/@_trends_monalisa_
